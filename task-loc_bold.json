@@ -56,7 +56,7 @@
   "SoftwareVersions": "syngo MR E11",
   "SpacingBetweenSlices": 3,
   "StationName": "MRC35377",
-  "TaskName": "TODO: full task name for loc",
+  "TaskName": "V5/hMT complex localizer based on moving points (for more information please refer to Sousa, T., Direito, B., Lima, J., Ferreira, C., Nunes, U., & Castelo-Branco, M. (2016). Control of Brain Activity in hMT+/V5 at Three Response Levels Using fMRI-Based Neurofeedback/BCI. Plos One, 11(5), e0155961. https://doi.org/10.1371/journal.pone.0155961)",
   "TotalReadoutTime": 0.0308698,
   "dcmmeta_reorient_transform": [
     [0.0, -1.0, 0.0, 63.0],
