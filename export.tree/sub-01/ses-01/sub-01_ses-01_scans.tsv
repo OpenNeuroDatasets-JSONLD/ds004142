@@ -1,7 +1,0 @@
-filename	acq_time	operator	randstr
-anat/sub-01_ses-01_run-01_T1w.nii.gz	2019-06-17T17:25:37.255000	n/a	5bbb6cae
-func/sub-01_ses-01_task-loc_run-01_bold.nii.gz	2019-06-17T17:33:53.125000	n/a	33552f7d
-func/sub-01_ses-01_task-nf_run-01_bold.nii.gz	2019-06-17T17:54:10.905000	n/a	fa7365dd
-func/sub-01_ses-01_task-nf_run-02_bold.nii.gz	2019-06-17T18:05:33.932500	n/a	adea1432
-func/sub-01_ses-01_task-nf_run-03_bold.nii.gz	2019-06-17T18:21:48.937500	n/a	1b8c5f84
-func/sub-01_ses-01_task-nf_run-04_bold.nii.gz	2019-06-17T18:48:10.920000	n/a	2ea713c7
